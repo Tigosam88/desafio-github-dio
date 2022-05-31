@@ -1,4 +1,4 @@
 # Desafio GitHub - Dio
 Teste para desafio proposto em aula pelo professor Venilton Falvo.
 
-[Segue link Dio](https://www.dio.me/)
+[Segue link DIO](https://www.dio.me/)
